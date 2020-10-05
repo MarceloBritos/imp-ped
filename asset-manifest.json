@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/MarceloBritos/imp-ped/static/css/main.a873e89f.chunk.css",
+    "main.js": "/MarceloBritos/imp-ped/static/js/main.48f5bfb0.chunk.js",
+    "main.js.map": "/MarceloBritos/imp-ped/static/js/main.48f5bfb0.chunk.js.map",
+    "runtime-main.js": "/MarceloBritos/imp-ped/static/js/runtime-main.0d13d46f.js",
+    "runtime-main.js.map": "/MarceloBritos/imp-ped/static/js/runtime-main.0d13d46f.js.map",
+    "static/js/2.0cb0b10a.chunk.js": "/MarceloBritos/imp-ped/static/js/2.0cb0b10a.chunk.js",
+    "static/js/2.0cb0b10a.chunk.js.map": "/MarceloBritos/imp-ped/static/js/2.0cb0b10a.chunk.js.map",
+    "index.html": "/MarceloBritos/imp-ped/index.html",
+    "precache-manifest.7d385d49f5a2a15943a7734aff8aa27e.js": "/MarceloBritos/imp-ped/precache-manifest.7d385d49f5a2a15943a7734aff8aa27e.js",
+    "service-worker.js": "/MarceloBritos/imp-ped/service-worker.js",
+    "static/css/main.a873e89f.chunk.css.map": "/MarceloBritos/imp-ped/static/css/main.a873e89f.chunk.css.map",
+    "static/js/2.0cb0b10a.chunk.js.LICENSE.txt": "/MarceloBritos/imp-ped/static/js/2.0cb0b10a.chunk.js.LICENSE.txt",
+    "static/media/default.jpg": "/MarceloBritos/imp-ped/static/media/default.20bb958e.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0d13d46f.js",
+    "static/js/2.0cb0b10a.chunk.js",
+    "static/css/main.a873e89f.chunk.css",
+    "static/js/main.48f5bfb0.chunk.js"
+  ]
+}
